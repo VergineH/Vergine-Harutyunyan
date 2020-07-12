@@ -1,2 +1,1 @@
-# Vergine-Harutyunyan
-Hello!
+It's my first repository.
